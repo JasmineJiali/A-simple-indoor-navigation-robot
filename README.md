@@ -1,0 +1,2 @@
+# A-simple-indoor-navigation-robot
+To help people with visual impairment and to improve their living quality, we came up with the idea of developing an indoor navigation robot. These robots can move on the flat platform by motors, and we can use machine learning to detect objects and do a series of intelligent operations. We only came up with the fundamental solution, and we still need to do more research before making our final solution.
